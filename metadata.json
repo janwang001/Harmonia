@@ -1,0 +1,7 @@
+{
+  "name": "Harmonia - AI 乐理实验室",
+  "description": "一个全面的乐理伴侣，可可视化音阶、和弦和音程，具有用于音乐学研究的 AI 聊天机器人，并能生成高保真音乐主题艺术品。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
